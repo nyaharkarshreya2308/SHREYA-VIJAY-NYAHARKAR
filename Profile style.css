@@ -1,0 +1,111 @@
+h1 {
+    color: grey;
+}
+p {
+    color:brown ;
+}
+
+h1 {
+    text-align: center;
+}
+h3 {
+    text-decoration: purple wavy underline;
+
+}
+button {
+    background-color: red;
+    
+}
+
+p {
+    font-family: arial;
+}
+
+tr {
+    font-family: arial;
+    text-align: center;
+ }
+ div {
+     height: 200px;
+     width: 400px;
+     background-color: gold;
+     text-align: center;
+     border-radius: 10px;
+    }
+      
+#box1 {
+    height: 200px;
+    width: 400px;
+    background-color: palegreen;
+    text-align: center;
+    border-radius: 10px;
+}  
+
+#box2 {
+    text-align: center;
+}
+
+footer{
+    display: block;
+    text-align: center;
+    color: wheat;
+}
+
+#box3 {
+    background-color: yellow;
+}
+
+#box4 {
+    background-color: yellowgreen;
+}
+
+#box5 {
+    position: relative;
+    bottom: 220px;
+    left: 490px;
+}
+
+#box1 {
+    position: relative;
+    bottom: 440px;
+    left: 970px;
+}
+
+#box2 {
+    position: relative;
+    bottom: 400px;
+
+}
+
+#box3 {
+    position: relative;
+    bottom: 620px;
+    left: 480px;
+}
+
+#box4 {
+    position: relative;
+    bottom: 840;
+    left: 970px;
+}
+
+#box6 {
+    position: relative;
+    bottom: 840px;
+    left: 480px;
+
+}
+
+footer {
+    position: relative;
+    bottom: 800px;
+}
+
+button {
+    position: relative;
+    bottom: 790px;
+}
+
+h2 {
+    text-align: center;
+}
